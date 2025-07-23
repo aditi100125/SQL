@@ -36,7 +36,7 @@ Most common skills include:
 | ElasticSearch   | $145,000         |
 
 ### 5. What are the most optimal skills to learn?
-#### ✅ **Optimal = High Demand + High Salary**
+#### **Optimal = High Demand + High Salary**
 | Skill         | Demand (Mentions) | Salary ($) |
 |---------------|-------------------|------------|
 | **SQL**        | 8                 | Mid-tier   |
@@ -48,7 +48,7 @@ Most common skills include:
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 - **SQL is the most required skill**, foundational to data analysis.
 - **Python and Tableau** emphasize both scripting and visualization.
@@ -58,7 +58,7 @@ Most common skills include:
 
 ---
 
-## 📈 Recommendations for Aspiring Data Analysts
+## Recommendations for Aspiring Data Analysts
 
 1. **Master SQL** – Core skill for querying databases.
 2. **Learn Python** – Especially with `pandas`, `numpy`, `matplotlib`.
@@ -69,7 +69,7 @@ Most common skills include:
 
 ---
 
-## 🚀 Strategic Upskilling Recommendations
+## Strategic Upskilling Recommendations
 
 To boost earning potential, focus on:
 
