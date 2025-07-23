@@ -2,7 +2,7 @@
 
 ![Top 15 Data Analyst Skills](/sql_load/project_sql/output.png)
 
-## 🔍 Frequently Asked Questions
+## Analysis
 
 ### 1. What are the top-paying jobs for my role?
 Roles involving **big data**, **machine learning**, and **cloud/data engineering** tools like **PySpark**, **DataRobot**, **GCP**, and **Kubernetes** command the highest salaries.
