@@ -1,6 +1,6 @@
 # Data Analyst Skill & Salary Insights
 
-![Top 15 Data Analyst Skills](output.png)
+![Top 15 Data Analyst Skills](/sql_load/project_sql/output.png)
 
 ## 🔍 Frequently Asked Questions
 
