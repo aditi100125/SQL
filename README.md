@@ -1,43 +1,82 @@
-Query:
-1. What are top-paying jobs for my role?
-2. What are the skills required for desired role?
-3. What are the most in-demand skills for my role?
-4. What are the top skills based on salary for my role?
-5. What are the most optimal skills to learn?
-    a. Optimal: High Demand and high paying.
+# Data Analyst Skill & Salary Insights
 
+![Top 15 Data Analyst Skills](output.png)
 
-Key Insights:
-- SQL is the most required skill, appearing in the highest number of job postings — emphasizing the importance of querying and manipulating data.
+## 🔍 Frequently Asked Questions
 
-- Python and Tableau follow closely, highlighting the need for both scripting (data cleaning, automation, analysis) and visualization skills.
+### 1. What are the top-paying jobs for my role?
+Roles involving **big data**, **machine learning**, and **cloud/data engineering** tools like **PySpark**, **DataRobot**, **GCP**, and **Kubernetes** command the highest salaries.
 
-- R remains relevant, especially in roles with statistical modeling.
+### 2. What are the skills required for the desired role?
+Most common skills include:
+- **SQL**, **Python**, **Tableau**, **Excel**
+- BI Tools: **Power BI**, **Tableau**
+- Scripting & Data Analysis: **Python**, **R**, **Pandas**
+- Cloud/Database: **Azure**, **Snowflake**, **PostgreSQL**
+- DevOps: **Git**, **GitLab**, **Bitbucket**
 
-- Cloud and collaboration tools like Azure, GitLab, Confluence, and Atlassian also appear, suggesting integration with DevOps and cloud platforms.
+### 3. What are the most in-demand skills for my role?
+- **SQL** – Appears in the highest number of job listings
+- **Python** – Widely used for data cleaning and automation
+- **Tableau** – For dashboarding and data visualization
+- **R** – Especially in roles involving statistical modeling
 
-- Tools like Excel and Power BI show that traditional BI tools still hold value in many organizations.
+### 4. What are the top skills based on salary for my role?
+| Skill           | Avg Salary (USD) |
+|----------------|------------------|
+| PySpark         | $208,172         |
+| Bitbucket       | $189,154         |
+| Couchbase       | $160,515         |
+| Watson          | $160,515         |
+| DataRobot       | $155,486         |
+| GitLab          | $154,500         |
+| Swift           | $153,750         |
+| Jupyter         | $152,777         |
+| Pandas          | $151,821         |
+| ElasticSearch   | $145,000         |
 
-Recommendations for Aspiring Data Analysts:
-1. Master SQL – foundational for any data analyst.
+### 5. What are the most optimal skills to learn?
+#### ✅ **Optimal = High Demand + High Salary**
+| Skill         | Demand (Mentions) | Salary ($) |
+|---------------|-------------------|------------|
+| **SQL**        | 8                 | Mid-tier   |
+| **Python**     | 7                 | High        |
+| **Pandas**     | 3                 | High        |
+| **GitLab**     | 2                 | High        |
+| **Bitbucket**  | 2                 | Very High   |
+| **Jupyter**    | 1                 | High        |
 
-2. Be proficient in Python (with libraries like Pandas, NumPy, and Matplotlib).
+---
 
-3. Learn visualization tools – Tableau or Power BI.
+## 📌 Key Insights
 
-4. Gain cloud exposure – Azure or Snowflake knowledge is a plus.
+- **SQL is the most required skill**, foundational to data analysis.
+- **Python and Tableau** emphasize both scripting and visualization.
+- **R** is still valuable for statistical modeling roles.
+- **Cloud and DevOps tools** like Azure, GitLab, and Atlassian are emerging trends.
+- **Excel and Power BI** remain relevant in many traditional analyst roles.
 
-5. Brush up on Excel – especially for stakeholder reporting.
+---
 
-6. Understand version control & collaboration tools (Git, Confluence).
+## 📈 Recommendations for Aspiring Data Analysts
 
-Strategic Upskilling Recommendations:
-If you're aiming for high-paying roles, focus on:
+1. **Master SQL** – Core skill for querying databases.
+2. **Learn Python** – Especially with `pandas`, `numpy`, `matplotlib`.
+3. **Explore visualization tools** – Tableau and Power BI.
+4. **Get cloud-fluent** – Start with Azure or Snowflake.
+5. **Excel up** – Still useful for quick summaries and reporting.
+6. **Understand version control** – Git, Bitbucket, GitLab.
 
-1. Big Data Tools: PySpark, Databricks, Airflow
+---
 
-2. ML Tools: Scikit-learn, DataRobot, Jupyter
+## 🚀 Strategic Upskilling Recommendations
 
-3. Cloud & DevOps: GCP, Kubernetes, GitLab/Jenkins
+To boost earning potential, focus on:
 
-4. Advanced Python Stack: Pandas, NumPy, Elasticsearch
+- **Big Data Tools**: PySpark, Databricks, Airflow  
+- **ML Tools**: Scikit-learn, DataRobot, Jupyter  
+- **Cloud & DevOps**: GCP, Kubernetes, GitLab, Jenkins  
+- **Python Stack**: Pandas, NumPy, Elasticsearch  
+
+---
+
